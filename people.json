@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-26-initial",
+  "people": [
+    {
+      "id": "lizhixiu",
+      "name": "李枝秀",
+      "title": "教授",
+      "role": "建筑与设计学院院长",
+      "research": "城乡空间营造与社会治理，当代设计教育研究。",
+      "bio": "南昌大学建筑与设计学院党委副书记、院长，博士生导师。长期从事设计教学、设计教育改革及传统村落人居环境研究与实践。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/75b0549da89949718f97653234bddd20.htm",
+      "photo": "portraits/lizhixiu.png",
+      "photoAsset": "lizhixiu.png"
+    },
+    {
+      "id": "zhengwenhui",
+      "name": "郑文晖",
+      "title": "教授",
+      "role": "城乡规划系主任",
+      "research": "城乡规划理论与设计方法、城市更新。",
+      "bio": "同济大学城市规划与设计专业博士、注册城乡规划师，研究城乡规划理论与设计方法及城市更新。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/09da438e7e7a468eabceed3d72643a74.htm",
+      "photo": "portraits/zhengwenhui.jpg",
+      "photoAsset": "zhengwenhui.jpg"
+    },
+    {
+      "id": "weiyangyang",
+      "name": "魏阳阳",
+      "title": "副教授",
+      "role": "艺术设计系教研室主任",
+      "research": "交叉设计研究、AI 与数字化设计、数字仿真与数据可视化设计、计算机辅助设计。",
+      "bio": "工学博士、硕士生导师，研究交叉设计、AI 与数字化设计及数据可视化设计。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/8db9f5e7307b4d92a48ba313052d436e.htm",
+      "photo": "portraits/weiyangyang.jpg",
+      "photoAsset": "weiyangyang.jpg"
+    },
+    {
+      "id": "zhangjiaxin",
+      "name": "张嘉新",
+      "title": "副教授",
+      "role": "建筑系",
+      "research": "计算机辅助设计、参与式社区更新、视觉大模型、智能化创意设计。",
+      "bio": "先后获得南昌大学建筑学学士、东南大学建筑学硕士、大阪大学计算机辅助设计博士学位，研究计算机辅助设计与参与式社区更新等方向。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/jzx/d66275a2a6054a43b55d2c2a2ffb784c.htm",
+      "photo": "portraits/zhangjiaxin.png",
+      "photoAsset": "zhangjiaxin.png"
+    },
+    {
+      "id": "meixiaoqing",
+      "name": "梅小清",
+      "title": "教授",
+      "role": "艺术设计系主任",
+      "research": "医疗康养空间、乡村振兴建设。",
+      "bio": "艺术设计系主任、硕士生导师，长期从事医疗康养空间设计及乡村振兴相关实践。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/aabbd98c92ba4fe29a3f966d10832a18.htm",
+      "photo": "portraits/meixiaoqing.jpg",
+      "photoAsset": "meixiaoqing.jpg"
+    },
+    {
+      "id": "zhouzhiyi",
+      "name": "周志仪",
+      "title": "教授",
+      "role": "城乡规划系",
+      "research": "建筑及城乡规划设计、城市更新、城市设计。",
+      "bio": "硕士生导师，研究建筑及城乡规划设计、城市更新与城市设计。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/328ecff7accc49be9cdcdfafc9720675.htm",
+      "photo": "portraits/zhouzhiyi.png",
+      "photoAsset": "zhouzhiyi.png"
+    },
+    {
+      "id": "wangxueqiang",
+      "name": "王雪强",
+      "title": "教授",
+      "role": "建筑系主任",
+      "research": "城市设计。",
+      "bio": "建筑系主任、硕士生导师、注册城乡规划师，研究方向为城市设计。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/jzx/5e57916ca7cc4890b4fb733713b0a2b4.htm",
+      "photo": "portraits/wangxueqiang.png",
+      "photoAsset": "wangxueqiang.png"
+    },
+    {
+      "id": "huangdongsheng",
+      "name": "黄东升",
+      "title": "教授",
+      "role": "艺术设计系主任",
+      "research": "传统聚落、公共文化空间、文化遗产、环境设计、城市更新。",
+      "bio": "艺术设计系主任、硕士生导师，兼具园林高级工程师专业背景，研究传统聚落、公共文化空间与城市更新。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/a40278905d9d4f109bf2487fc87a1e63.htm",
+      "photo": "portraits/huangdongsheng.png",
+      "photoAsset": "huangdongsheng.png"
+    },
+    {
+      "id": "limingfei",
+      "name": "李名飞",
+      "title": "",
+      "role": "环境设计空间创意教研室主任",
+      "research": "秀美乡村设计、室内空间设计。",
+      "bio": "从事秀美乡村设计与室内空间设计，参与多项服务地方建设的设计实践。学院教师主页未列明专业技术职称，页面暂不推定。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/2a23e38b211542cc8b5593035d6da59f.htm",
+      "photo": "portraits/limingfei.jpg",
+      "photoAsset": "limingfei.jpg"
+    },
+    {
+      "id": "huangjingyong",
+      "name": "黄景勇",
+      "title": "教授",
+      "role": "建筑与设计学院副院长",
+      "research": "建筑及城乡规划设计、城市更新、室内设计。",
+      "bio": "建筑与设计学院副院长、硕士生导师，国家一级注册建筑师、注册城乡规划师，研究建筑及城乡规划设计与城市更新。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/jzx/5b3f948c046f4114829386fb64441d25.htm",
+      "photo": "portraits/huangjingyong.png",
+      "photoAsset": "huangjingyong.png"
+    },
+    {
+      "id": "longchunying",
+      "name": "龙春英",
+      "title": "副教授",
+      "role": "城乡规划系",
+      "research": "健康与环境的关系、景观与环境声学、乡村振兴、生态修复。",
+      "bio": "博士、硕士生导师，长期从事城乡规划、风景园林与旅游管理的交叉研究。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/2c22efc221cf4d12b62f22efba503c3b.htm",
+      "photo": "portraits/longchunying.png",
+      "photoAsset": "longchunying.png"
+    },
+    {
+      "id": "wangzhongjie",
+      "name": "王中杰",
+      "title": "副教授",
+      "role": "艺术设计系副主任",
+      "research": "人居环境消费、时尚设计与文化研究、消费者行为。",
+      "bio": "艺术设计系副主任、硕士生导师，研究人居环境消费、时尚设计与文化及消费者行为。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/e46b8a73829948299e457e500225ce4c.htm",
+      "photo": "portraits/wangzhongjie.jpg",
+      "photoAsset": "wangzhongjie.jpg"
+    }
+  ]
+}
