@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-26-initial",
+  "version": "2026-10-05-staff-photos-order",
   "people": [
     {
       "id": "lizhixiu",
@@ -21,30 +21,8 @@
       "research": "城乡规划理论与设计方法、城市更新。",
       "bio": "同济大学城市规划与设计专业博士、注册城乡规划师，研究城乡规划理论与设计方法及城市更新。",
       "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/09da438e7e7a468eabceed3d72643a74.htm",
-      "photo": "portraits/zhengwenhui.jpg",
-      "photoAsset": "zhengwenhui.jpg"
-    },
-    {
-      "id": "weiyangyang",
-      "name": "魏阳阳",
-      "title": "副教授",
-      "role": "艺术设计系教研室主任",
-      "research": "交叉设计研究、AI 与数字化设计、数字仿真与数据可视化设计、计算机辅助设计。",
-      "bio": "工学博士、硕士生导师，研究交叉设计、AI 与数字化设计及数据可视化设计。",
-      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/8db9f5e7307b4d92a48ba313052d436e.htm",
-      "photo": "portraits/weiyangyang.jpg",
-      "photoAsset": "weiyangyang.jpg"
-    },
-    {
-      "id": "zhangjiaxin",
-      "name": "张嘉新",
-      "title": "副教授",
-      "role": "建筑系",
-      "research": "计算机辅助设计、参与式社区更新、视觉大模型、智能化创意设计。",
-      "bio": "先后获得南昌大学建筑学学士、东南大学建筑学硕士、大阪大学计算机辅助设计博士学位，研究计算机辅助设计与参与式社区更新等方向。",
-      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/jzx/d66275a2a6054a43b55d2c2a2ffb784c.htm",
-      "photo": "portraits/zhangjiaxin.png",
-      "photoAsset": "zhangjiaxin.png"
+      "photo": "portraits/zhengwenhui.png",
+      "photoAsset": "zhengwenhui.png"
     },
     {
       "id": "meixiaoqing",
@@ -54,8 +32,8 @@
       "research": "医疗康养空间、乡村振兴建设。",
       "bio": "艺术设计系主任、硕士生导师，长期从事医疗康养空间设计及乡村振兴相关实践。",
       "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/aabbd98c92ba4fe29a3f966d10832a18.htm",
-      "photo": "portraits/meixiaoqing.jpg",
-      "photoAsset": "meixiaoqing.jpg"
+      "photo": "portraits/meixiaoqing.png",
+      "photoAsset": "meixiaoqing.png"
     },
     {
       "id": "zhouzhiyi",
@@ -91,17 +69,6 @@
       "photoAsset": "huangdongsheng.png"
     },
     {
-      "id": "limingfei",
-      "name": "李名飞",
-      "title": "",
-      "role": "环境设计空间创意教研室主任",
-      "research": "秀美乡村设计、室内空间设计。",
-      "bio": "从事秀美乡村设计与室内空间设计，参与多项服务地方建设的设计实践。学院教师主页未列明专业技术职称，页面暂不推定。",
-      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/2a23e38b211542cc8b5593035d6da59f.htm",
-      "photo": "portraits/limingfei.jpg",
-      "photoAsset": "limingfei.jpg"
-    },
-    {
       "id": "huangjingyong",
       "name": "黄景勇",
       "title": "教授",
@@ -111,6 +78,28 @@
       "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/jzx/5b3f948c046f4114829386fb64441d25.htm",
       "photo": "portraits/huangjingyong.png",
       "photoAsset": "huangjingyong.png"
+    },
+    {
+      "id": "weiyangyang",
+      "name": "魏阳阳",
+      "title": "副教授",
+      "role": "艺术设计系教研室主任",
+      "research": "交叉设计研究、AI 与数字化设计、数字仿真与数据可视化设计、计算机辅助设计。",
+      "bio": "工学博士、硕士生导师，研究交叉设计、AI 与数字化设计及数据可视化设计。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/8db9f5e7307b4d92a48ba313052d436e.htm",
+      "photo": "portraits/weiyangyang.jpg",
+      "photoAsset": "weiyangyang.jpg"
+    },
+    {
+      "id": "zhangjiaxin",
+      "name": "张嘉新",
+      "title": "副教授",
+      "role": "建筑系",
+      "research": "计算机辅助设计、参与式社区更新、视觉大模型、智能化创意设计。",
+      "bio": "先后获得南昌大学建筑学学士、东南大学建筑学硕士、大阪大学计算机辅助设计博士学位，研究计算机辅助设计与参与式社区更新等方向。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/jzx/d66275a2a6054a43b55d2c2a2ffb784c.htm",
+      "photo": "portraits/zhangjiaxin.png",
+      "photoAsset": "zhangjiaxin.png"
     },
     {
       "id": "longchunying",
@@ -133,6 +122,17 @@
       "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/yssjx/e46b8a73829948299e457e500225ce4c.htm",
       "photo": "portraits/wangzhongjie.jpg",
       "photoAsset": "wangzhongjie.jpg"
+    },
+    {
+      "id": "limingfei",
+      "name": "李名飞",
+      "title": "",
+      "role": "环境设计空间创意教研室主任",
+      "research": "秀美乡村设计、室内空间设计。",
+      "bio": "从事秀美乡村设计与室内空间设计，参与多项服务地方建设的设计实践。学院教师主页未列明专业技术职称，页面暂不推定。",
+      "source": "https://jzysjxy.ncu.edu.cn/szdw/zzjs/cxghx/2a23e38b211542cc8b5593035d6da59f.htm",
+      "photo": "portraits/limingfei.jpg",
+      "photoAsset": "limingfei.jpg"
     }
   ]
 }
